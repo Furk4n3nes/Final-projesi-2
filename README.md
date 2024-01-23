@@ -15,3 +15,5 @@ Eğer yukarıdaki koşullar sağlanıyorsa, ekrana "Girdiğiniz sayı çift." ya
 Eğer koşullar sağlanmıyorsa (yani sayı 0 değilse ve çift değilse), program ekrana "Girdiğiniz sayı tek." yazısını yazar.
 
 Bu program, temel Java if-else yapısını kullanarak, kullanıcıdan alınan bir sayının çift mi tek mi olduğunu belirler.
+
+https://www.youtube.com/watch?v=Au_Ze-m3rRo&t=1s
